@@ -37,7 +37,7 @@ Colab "Open in Colab" button.
 
 <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/OpenInColab.png/OpenInColab.png" width=700 alt="shows what the 'Open in Colab' link looks like">
 
-You'll click on the botton to open the notebook for the given lesson or lab and it will open in a new tab.
+You'll click on the button to open the notebook for the given lesson or lab and it will open in a new tab.
 
 <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/YourFirstJupyterNotebook.png/YourFirstJupyterNotebook.png" width=700 alt="Shows what the first notebook will look like">
 
@@ -68,7 +68,7 @@ For example, with the following lab:
 
 <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/UploadData02.png/UploadData02.png" width=700 alt="The left pane where the data is placed is shown">
 
-5.   Drop the data into the pain from where you have the data stored and you'll get a warning that the data will be deleted from the runtime is terminated; the data is still safe where you have saved it and the notebook file itself will save
+5.   Drop the data into the pane from where you have the data stored and you'll get a warning that the data will be deleted from the runtime is terminated; the data is still safe where you have saved it and the notebook file itself will save
 
 <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/UploadData03.png/UploadData03.png" width=700 alt="Warning regarding the data and the runtime">
 
@@ -86,4 +86,4 @@ To that one simply go to [Colab](https://colab.research.google.com/) within Chro
 
 ## Summary
 
-Colab is a wonderful data science tool and you have now be introduced to it.
+Colab is a wonderful data science tool and you have now been introduced to it.
