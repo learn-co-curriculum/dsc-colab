@@ -82,7 +82,7 @@ At this point, you can code in the notebook and the data will be available when 
 
 One can get to Colab directly if one already has a python notebook to upload, wants to create a new one from scratch, etc.
 
-To that one simply go to [Colab](https://colab.research.google.com/) within Chrome.
+One can directly go to [Colab](https://colab.research.google.com/) from within Chrome.
 
 ## Summary
 
